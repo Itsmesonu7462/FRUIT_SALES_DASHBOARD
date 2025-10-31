@@ -55,7 +55,8 @@ The dataset includes the following key fields:
 
 ## 📊 Dashboard Preview
 
-*(You can add a screenshot of your Power BI dashboard here once exported.)*
+<img width="1365" height="772" alt="image" src="https://github.com/user-attachments/assets/421a2149-b71a-4b7d-8514-7973c703805b" />
+
 
 ---
 
